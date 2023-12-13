@@ -1,0 +1,27 @@
+p {
+    color: rgb(255, 255, 255);
+}
+
+body{
+    height: 100%;
+   display: flex; 
+   justify-content: center;
+   align-items: center;
+   background-image:url(landscape-of-snow-storm-winter-background-at-night-digital-art-design-free-photo.jpg);
+   background-size: cover;
+   
+}
+
+html {
+    height: 100%;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+ button{
+    padding: 1rem 2rem;
+    justify-items: end;
+}
